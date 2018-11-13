@@ -1,4 +1,4 @@
-# Classic Arcade Game
+# Udacity-Arcade-Game
 
 In this game you have a Player and Enemies (bugs).
 Goal: Guide the player is to the water, without colliding into any one of the enemies.
